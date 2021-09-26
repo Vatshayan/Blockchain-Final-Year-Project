@@ -6,7 +6,7 @@ Final Year College Project made on Concept of blockchain. Project Report, Projec
 ![Screenshot 2021-09-14 at 12 52 13 PM](https://user-images.githubusercontent.com/28294942/133213402-34ec7799-4044-4162-a27d-04fd4e4358a0.png)
 
 ### Code: [Link](https://github.com/Vatshayan/Blockchain-Final-Year-Project/blob/main/Blockchain_Project_dem.ipynb) 
-I have made this Code Private. So no one can miuse this. But if you want for your Project help then [MAIl](vatshayan007@mail.com) me I will Send you asap.
+I have made this Code Private. So no one can miuse this. But if you want for your Project help then [MAIL](vatshayan007@mail.com) me I will Send you asap.
 
 _________________________________________________________________________________________________________________________________________________
 
