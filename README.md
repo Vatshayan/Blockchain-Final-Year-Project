@@ -6,7 +6,12 @@ Final Year College Project made on Concept of blockchain. Project Report, Projec
 ![Screenshot 2021-09-14 at 12 52 13 PM](https://user-images.githubusercontent.com/28294942/133213402-34ec7799-4044-4162-a27d-04fd4e4358a0.png)
 
 ### Code: [Link](https://github.com/Vatshayan/Blockchain-Final-Year-Project/blob/main/Blockchain_Project_dem.ipynb) 
-I have made this Code Private. So no one can miuse this. But if you want for your Project help then Mail (vatshayan007@mail.com) me I will Send you asap.
+
+I have made this Code Private. So no one can misuse this. But if you want for your Project help then Mail (vatshayan007@mail.com) me I will Send you asap.
+
+
+
+## Top  10 Blockchain Projects : https://vatshayan.medium.com/top-10-final-year-blockchain-projects-d3a9753464e7
 
 _________________________________________________________________________________________________________________________________________________
 
@@ -29,3 +34,5 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 💬 Gmail: **vatshayan007@gmail.com**
 
 ### CSE Projects: [LINK](https://www.cse-projects.com)
+
+### New BlockChain Project (Election System) : https://github.com/Vatshayan/Final-Year-Blockchain-Voting-System 
