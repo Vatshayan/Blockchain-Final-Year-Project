@@ -2,9 +2,10 @@
 ## Title : Decentrilized Blockchain Money Transcation Project
 Final Year College Project made on Concept of blockchain. Project Report, Project Code, PPT and synopsis. Research Paper Project. 
 
-### PPT: [Link](https://github.com/Vatshayan/Blockchain-Final-Year-Project/blob/main/Blockchain%20Money%20PPT.pdf)
 
-![Screenshot 2021-09-14 at 12 52 13 PM](https://user-images.githubusercontent.com/28294942/133213402-34ec7799-4044-4162-a27d-04fd4e4358a0.png)
+![DECENTRILIZED BLOCKCHAIN Money TRANSACTION SYSTEM](https://user-images.githubusercontent.com/28294942/162234365-057733de-15b9-41a8-8f9e-7e7110f28cb3.jpg)
+
+### PPT: [Link](https://github.com/Vatshayan/Blockchain-Final-Year-Project/blob/main/Blockchain%20Money%20PPT.pdf)
 
 ### Code: [Link](https://github.com/Vatshayan/Blockchain-Final-Year-Project/blob/main/Blockchain_Project_dem.ipynb) 
 
