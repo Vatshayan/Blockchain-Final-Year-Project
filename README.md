@@ -44,6 +44,6 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 ### CSE Projects: [LINK](https://www.cse-projects.com)
 
-### New BlockChain Project (Election System) : https://github.com/Vatshayan/Final-Year-Blockchain-Voting-System 
-### Blockchain BLog Project : https://github.com/Vatshayan/Decentrilized-Blockchain-Blog-System-Project
+### New BlockChain Project (Election Voting System) : https://github.com/Vatshayan/Final-Year-Blockchain-Voting-System 
+
 ### Top  10 Blockchain Projects : https://vatshayan.medium.com/top-10-final-year-blockchain-projects-d3a9753464e7
