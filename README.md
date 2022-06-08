@@ -36,13 +36,16 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 ### HOW TO RUN THE PROJECT-
 ⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report with Code to run the project with source Code.
 
-### 📫 HOW TO REACH ME 
 
-💬 WhatsApp: **[LINK](https://wa.me/message/CHWN2AHCPMAZK1) : +91 9310631437 (Helping 24*7)**
+## How to Reach me :
 
-💬 Gmail: **vatshayan007@gmail.com**
+### 💬 Mail : vatshayan007@gmail.com 
 
-### CSE Projects: [LINK](https://www.cse-projects.com)
+### 💬 WhatsApp: **+91 9310631437** (Helping 24*7) **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
+
+### Website : https://www.cse-projects.com/
+
+### 1000 Computer Science Project List : https://www.computer-science-project.in/
 
 ### New BlockChain Project (Election Voting System) : https://github.com/Vatshayan/Final-Year-Blockchain-Voting-System 
 
